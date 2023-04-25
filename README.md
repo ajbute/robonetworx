@@ -1,2 +1,2 @@
 # RoboNetworX
-A simple and intuitive mobile application for FRC teams to network and chat.
+A simple and intuitive web application for FRC teams to network and chat.
